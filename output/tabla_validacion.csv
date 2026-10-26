@@ -1,0 +1,16 @@
+Escenario,Etapa,Wq_analitico (min),Wq_simulacion (min),Diff_%,En_IC95,Validación
+saturado,Registro,0.23,0.18,22.89,No,FALLA
+saturado,Triaje,0.58,0.59,1.27,No,FALLA
+saturado,Consulta,1.3,1.17,10.34,No,FALLA
+saturado,Laboratorio,0.15,0.08,43.88,No,FALLA
+saturado,Tratamiento,0.11,0.32,178.33,No,FALLA
+equilibrado,Registro,0.23,0.2,15.01,No,FALLA
+equilibrado,Triaje,0.58,0.45,23.12,No,FALLA
+equilibrado,Consulta,0.05,0.05,5.69,No,FALLA
+equilibrado,Laboratorio,0.15,0.06,59.4,No,FALLA
+equilibrado,Tratamiento,0.11,0.1,9.38,No,FALLA
+holgado,Registro,0.23,0.2,13.01,No,FALLA
+holgado,Triaje,0.58,0.58,1.11,No,FALLA
+holgado,Consulta,0.0,0.0,100.0,No,FALLA
+holgado,Laboratorio,0.15,0.26,75.56,No,FALLA
+holgado,Tratamiento,0.01,0.0,99.06,No,FALLA

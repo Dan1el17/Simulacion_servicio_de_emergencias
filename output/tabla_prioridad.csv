@@ -1,0 +1,16 @@
+Escenario,Gravedad,Wq_sin_prioridad (min),Wq_con_prioridad (min),Diferencia (min),Mejora_%
+saturado,CRITICAL,3.18,3.76,0.58,-18.2
+saturado,URGENT,3.03,4.25,1.22,-40.2
+saturado,MODERATE,2.99,3.07,0.08,-2.8
+saturado,MILD,1.85,1.44,-0.41,22.0
+saturado,NON_URGENT,2.29,1.44,-0.86,37.3
+equilibrado,CRITICAL,0.65,0.78,0.13,-19.7
+equilibrado,URGENT,0.78,0.88,0.1,-12.7
+equilibrado,MODERATE,0.95,1.02,0.08,-8.0
+equilibrado,MILD,0.72,0.66,-0.07,9.2
+equilibrado,NON_URGENT,1.08,0.9,-0.18,16.9
+holgado,CRITICAL,0.93,0.93,0.0,0.0
+holgado,URGENT,0.52,0.78,0.26,-50.6
+holgado,MODERATE,0.85,0.99,0.14,-17.0
+holgado,MILD,0.99,0.84,-0.15,15.3
+holgado,NON_URGENT,1.33,1.15,-0.19,14.0
